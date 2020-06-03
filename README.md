@@ -9,6 +9,8 @@ ____
 - _A ajustes nuevos nuev0s_
 
 
+- _A no tengo la ultima version_
+
 
 ___
 
