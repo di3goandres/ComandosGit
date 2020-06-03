@@ -4,6 +4,7 @@ ____
 
 _A  Para navegar a los links usar ctrl + click_
 este cambio esta en el branch ajustes
+ajustes nuevos
 ___
 
 ## Obtener Visual
