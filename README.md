@@ -3,7 +3,6 @@ Visual Studio Code
 ____
 
 - _A  Para navegar a los links usar ctrl + click_
-- _A ajustes nuevos_
 - _A ajustes nuevos nuev0s_
 
 
