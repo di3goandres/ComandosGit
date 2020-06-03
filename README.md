@@ -15,4 +15,4 @@ ___
 --
 
 ## Flujo de trabajo
-[imagen](https://github.com/di3goandres/ComandosGit/blob/master/workflow.png?raw=true)
+![workflow](https://user-images.githubusercontent.com/10679591/83679795-9965e480-a5a5-11ea-9992-6be3c0676e78.png)
