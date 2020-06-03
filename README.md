@@ -3,6 +3,7 @@ Visual Studio Code
 ____
 
 _A  Para navegar a los links usar ctrl + click_
+este cambio esta en el branch ajustes
 ___
 
 ## Obtener Visual
