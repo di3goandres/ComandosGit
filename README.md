@@ -3,6 +3,7 @@ Visual Studio Code
 ____
 
 - _A  Para navegar a los links usar ctrl + click_
+- _A esta linea viene de master
 - _A ajustes nuevos nuev0s_
 
 
