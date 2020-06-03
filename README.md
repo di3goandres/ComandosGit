@@ -5,6 +5,6 @@ ___
 
 ## Obtener Visual
 - Descargar Visual studio Code: https://code.visualstudio.com
-- Comandos utilizados[](Comandos.md)
+- Comandos utilizados[aqui](Comandos.md)
 
 --
