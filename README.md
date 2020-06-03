@@ -6,16 +6,7 @@ Visual Studio Code
 ____
 
 - _A  Para navegar a los links usar ctrl + click_
-- _A nueva linea , para merge con master master master_
-- _A nueva linea 1_
-- _A nuevalinea 2_
-##Hola comentario
-- _A ajustes nuevos nuev0s_
-_ _A hola Mundo Master_
-_ _A hola Mundo Master2_
-_ _A hola Mundo Master3_
 
-- _A no tengo la ultima version_
 
 
 ___
@@ -25,6 +16,7 @@ ___
 - Instalar Git en sus maquinas: [link](https://git-scm.com)
 - Extensión de Git para Visual Studio Code [link](https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack) Nombre: donjayamanne.git-extension-pack
 - Comandos utilizados [link](Comandos.md)
+- Borrar comentarios antes del push [link](http://aprendegit.com/como-deshacer-el-ultimo-commit-en-git/)
 
 
 --
