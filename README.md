@@ -4,6 +4,8 @@ ____
 
 - _A  Para navegar a los links usar ctrl + click_
 - _A nueva linea , para merge con master master master 
+- _A linea nueva en Ajuste_
+_ _A Linea nueva en Ajustes 2_
 - _A ajustes nuevos nuev0s_
 
 
