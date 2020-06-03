@@ -2,9 +2,9 @@ Visual Studio Code
 ============
 ____
 
-_A  Para navegar a los links usar ctrl + click_
-este cambio esta en el branch ajustes
-_A ajustes nuevos_
+- _A  Para navegar a los links usar ctrl + click_
+- este cambio esta en el branch ajustes
+- _A ajustes nuevos_
 
 
 
