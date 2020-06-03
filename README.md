@@ -1,6 +1,8 @@
 Visual Studio Code
 ============
+____
 
+_A  Para navegar a los links usar ctrl + click _
 ___
 
 ## Obtener Visual
