@@ -14,5 +14,11 @@ ___
 
 --
 
-## Flujo de trabajo
+## Repositorio
 ![workflow](https://user-images.githubusercontent.com/10679591/83679795-9965e480-a5a5-11ea-9992-6be3c0676e78.png)
+
+--
+
+## Flujo de Trabajo
+![Workflow2](https://user-images.githubusercontent.com/10679591/83680032-fd88a880-a5a5-11ea-9f31-28841b2bc441.png)
+
