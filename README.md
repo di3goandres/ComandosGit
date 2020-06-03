@@ -13,3 +13,6 @@ ___
 
 
 --
+
+## Flujo de trabajo
+[imagen](https://github.com/di3goandres/ComandosGit/blob/master/workflow.png?raw=true)
