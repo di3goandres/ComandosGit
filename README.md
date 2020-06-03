@@ -3,7 +3,9 @@ Visual Studio Code
 ____
 
 - _A  Para navegar a los links usar ctrl + click_
-- _A nueva linea , para merge con master master master 
+- _A nueva linea , para merge con master master master_
+- _A nueva linea 1_
+- _A nuevalinea 2_
 - _A ajustes nuevos nuev0s_
 
 
