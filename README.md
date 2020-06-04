@@ -19,8 +19,14 @@ ___
 - Borrar comentarios antes del push [link](http://aprendegit.com/como-deshacer-el-ultimo-commit-en-git/)
 
 
---
 
+
+--
+## Git Flow
+
+- Instalar en VS CODE [LINK](https://marketplace.visualstudio.com/items?itemName=GreatMinds.gitflow4code)
+
+--
 ## Repositorio
 ![workflow](https://user-images.githubusercontent.com/10679591/83679795-9965e480-a5a5-11ea-9992-6be3c0676e78.png)
 
